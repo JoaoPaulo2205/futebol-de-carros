@@ -1,0 +1,4 @@
+*.hex
+*.elf
+build/
+.claude/
